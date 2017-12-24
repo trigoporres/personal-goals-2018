@@ -20,6 +20,14 @@
 
 [JavaScript loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 
+## Node JS
+
+:movie_camera: [Web Scraping, Escaneando la web con Nodejs](https://youtu.be/rcsvTUG0bs8)
+
+## Angular
+
+[Angular 5](https://dormoshe.io/articles/angular-v5-is-out-here-is-how-to-explore-it-22)
+
 ## React 
 
 [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
