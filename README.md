@@ -58,6 +58,120 @@
 
 :page_facing_up: [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
 
+:page_facing_up: [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#%F0%9F%92%81)
+
+:page_facing_up: [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
+
+:page_facing_up: [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
+
+:page_facing_up: [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
+
+:page_facing_up: [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
+
+:page_facing_up: [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
+
+:page_facing_up: [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
+
+:page_facing_up: [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+
+:page_facing_up: [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
+
+:page_facing_up: [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
+
+:page_facing_up: [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
+
+:movie_camera: [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
+
+:movie_camera: [ALAN MOOIMAN CSS is dead, long live CSS | CascadiaFest 2015](https://www.youtube.com/watch?v=jWDZP8twWDg)
+
+:movie_camera: [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
+
+:movie_camera: [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
+
+:page_facing_up: [Writing the Correct CSS Once is Pretty Easy](https://micahgodbolt.com/blog/writing-the-correct-css-once-is-pretty-easy-all-situations/)
+
+:page_facing_up: [What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
+
+:page_facing_up: [5 CSS Properties That You Probably Don’t Know](https://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
+
+:page_facing_up: [Welcome to Susy3!](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
+
+:page_facing_up: [Advanced SCSS](https://gist.github.com/jareware/4738651)
+
+:page_facing_up: [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9)
+
+:page_facing_up: [Perfect Full Page Background Image ](https://css-tricks.com/perfect-full-page-background-image/)
+
+:page_facing_up: [The Sass Ampersand ](https://css-tricks.com/the-sass-ampersand/)
+
+:movie_camera: [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
+
+:movie_camera: [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
+
+:movie_camera: [Automating CSS Regression Testing - Joan León #scbcn16](https://www.youtube.com/watch?v=4B0lUJn9XsY)
+
+:page_facing_up: [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+
+:page_facing_up: [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
+
+:movie_camera: [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
+
+:page_facing_up: [The Best Way to Implement a “Wrapper” in CSS ](https://css-tricks.com/best-way-implement-wrapper-css/)
+
+:page_facing_up: [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
+
+:page_facing_up: [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
+
+:page_facing_up: [The Nine Principles Of Design Implementation](https://www.smashingmagazine.com/2017/08/nine-principles-design-implementation/)
+
+:movie_camera: [Lea Verou - CSS Variables: var(--subtitle)](https://www.youtube.com/watch?v=2an6-WVPuJU)
+
+:movie_camera: [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
+
+:page_facing_up: [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
+
+:page_fancing_up: [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+
+:page_fancing_up: [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+
+:page_fancing_up: [Designing grids](https://zellwk.com/blog/designing-grids/)
+
+:page_fancing_up: [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
+
+:page_fancing_up: [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
+
+:page_fancing_up: [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
+
+:page_fancing_up: [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
+
+:page_fancing_up: [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+
+:movie_camera: [Aspect Ratio Hack: Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
+
+:page_fancing_up: [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
+
+:page_fancing_up: [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
+
+:page_fancing_up: [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
+
+:movie_camera: [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
+
+:page_fancing_up: [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
+
+:page_fancing_up: [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
+
+:movie_camera: [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
+
+:movie_camera: [DjangoCon US 2017 - Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
+
+:page_fancing_up: [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
+
+:page_fancing_up: [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
+
+## grid vs flexbox
+
+:page_fancing_up: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+
 ## Css Grid
 
 [learn css grid](http://learncssgrid.com/)
