@@ -1,3 +1,5 @@
 # Overarching Goals for 2018:
 
-**Projects**
+## Projects
+
+:bulb: Web personal(http://strigo.es/)
