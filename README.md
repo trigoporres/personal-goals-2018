@@ -6,7 +6,7 @@
 
 ## :books: Books
 
-:blue_book: [Desarrolla aplicaciones con VueJS, Jose Antonio Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)   [@jdonsan]https://twitter.com/jdonsan?lang=es)
+:blue_book: [Desarrolla aplicaciones con VueJS, Jose Antonio Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)   [@jdonsan](https://twitter.com/jdonsan?lang=es)
 
 :blue_book: [Desarrollo web agil con angular, Carlos Azaustre](https://carlosazaustre.es/)    [@carlosazaustre](https://twitter.com/carlosazaustre?lang=es)
 
@@ -130,47 +130,47 @@
 
 :page_facing_up: [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 
-:page_fancing_up: [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+:page_facing_up: [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 
-:page_fancing_up: [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+:page_facing_up: [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 
-:page_fancing_up: [Designing grids](https://zellwk.com/blog/designing-grids/)
+:page_facing_up: [Designing grids](https://zellwk.com/blog/designing-grids/)
 
-:page_fancing_up: [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
+:page_facing_up: [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
 
-:page_fancing_up: [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
+:page_facing_up: [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 
-:page_fancing_up: [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
+:page_facing_up: [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
 
-:page_fancing_up: [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
+:page_facing_up: [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 
-:page_fancing_up: [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+:page_facing_up: [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 
 :movie_camera: [Aspect Ratio Hack: Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
 
-:page_fancing_up: [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
+:page_facing_up: [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 
-:page_fancing_up: [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
+:page_facing_up: [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 
-:page_fancing_up: [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
+:page_facing_up: [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 
 :movie_camera: [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 
-:page_fancing_up: [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
+:page_facing_up: [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 
-:page_fancing_up: [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
+:page_facing_up: [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
 
 :movie_camera: [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 
 :movie_camera: [DjangoCon US 2017 - Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
 
-:page_fancing_up: [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
+:page_facing_up: [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 
-:page_fancing_up: [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
+:page_facing_up: [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
 
 ## grid vs flexbox
 
-:page_fancing_up: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+:page_facing_up: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ## Css Grid
 
