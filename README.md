@@ -2,4 +2,4 @@
 
 ## Projects
 
-:bulb: Web personal(http://strigo.es/)
+:bulb: [Web personal](http://strigo.es/)
