@@ -26,6 +26,10 @@
 
 :movie_camera: [Web Scraping, Escaneando la web con Nodejs](https://youtu.be/rcsvTUG0bs8)
 
+## Vue JS
+
+:movie_camera: [Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
+
 ## Angular
 
 :page_facing_up: [Angular 5](https://dormoshe.io/articles/angular-v5-is-out-here-is-how-to-explore-it-22)
@@ -190,6 +194,8 @@
 ## means
 
 [Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
+
+:page_facing_up: [2017 Staff Favorites](https://css-tricks.com/2017-staff-favorites/)
 
 
 
