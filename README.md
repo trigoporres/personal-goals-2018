@@ -204,4 +204,4 @@
 
 
 
-## [inspirado en repositorio original de Ignacio Villanueva](https://github.com/IgnaciodeNuevo/personal-goals#podcasts)
+## [inspirado en repositorio de Ignacio Villanueva](https://github.com/IgnaciodeNuevo/personal-goals#podcasts)
