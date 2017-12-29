@@ -38,6 +38,10 @@
 
 :page_facing_up: [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
+## Phyton
+
+:movie_camera: [Create J.A.R.V.I.S With Python | A Voice Activated Desktop Assistant Tutorial](https://www.youtube.com/watch?v=2eoudIBVW9w&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGVQwGf%2BDSA2XcZsuWFtchw%3D%3D)
+
 ## Html 
 
 :page_facing_up: [I’ve seen the future, it’s full of HTML](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
