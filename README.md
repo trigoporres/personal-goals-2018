@@ -180,7 +180,7 @@
 
 ## grid vs flexbox
 
-:page_facing_up: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+:page_facing_up: (2/1/2018) :ok_hand: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ## Css Grid
 
