@@ -3,6 +3,7 @@
 ## Projects
 
 :bulb: [Web personal](http://strigo.es/)
+:bulb: [P.A.O.L.A]
 
 ## :books: Books
 
