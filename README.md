@@ -32,10 +32,6 @@
 
 :movie_camera: [Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
 
-## Angular
-
-:page_facing_up: [Angular 5](https://dormoshe.io/articles/angular-v5-is-out-here-is-how-to-explore-it-22)
-
 ## React 
 
 :page_facing_up: [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
@@ -46,11 +42,9 @@
 
 ## Html 
 
-:page_facing_up: [I’ve seen the future, it’s full of HTML](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
+:page_facing_up: (2/1/2018)[I’ve seen the future, it’s full of HTML](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
 
 ## Css
-
-:movie_camera: [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
 
 :movie_camera: [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 
