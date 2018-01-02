@@ -184,6 +184,8 @@
 
 [learn css grid](http://learncssgrid.com/)
 
+:movie_camera: [Aprende CSS Grid práctico](https://www.youtube.com/playlist?list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
+
 ## Flexbox
 
 :movie_camera: (En proceso) [What the Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
