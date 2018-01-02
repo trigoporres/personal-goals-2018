@@ -188,7 +188,7 @@
 
 ## Flexbox
 
-:movie_camera: (En proceso) [What the Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+:movie_camera: (2/1/2018) [What the Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
 ## repositories Github
 
