@@ -208,7 +208,7 @@
 
 ## Npm
 
-[node-notifier](https://github.com/mikaelbr/node-notifier) 
+:ok_hand: [node-notifier](https://github.com/mikaelbr/node-notifier) 
 
 
 
