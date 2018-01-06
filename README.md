@@ -32,6 +32,8 @@
 
 :movie_camera: [Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
 
+:movie_camera: [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
+
 ## React
 
 :page_facing_up: [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
