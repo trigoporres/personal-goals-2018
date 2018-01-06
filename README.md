@@ -30,9 +30,9 @@
 
 ## Vue JS
 
-:movie_camera: [Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
+:movie_camera: (6/1/2018)[Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
 
-:movie_camera: [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
+:movie_camera: (realizando)[aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
 
 ## React
 
