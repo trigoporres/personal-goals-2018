@@ -18,6 +18,10 @@
 
 :blue_book: [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction-ebook/dp/B00QL616UU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514116099&sr=1-1&keywords=Eloquent_JavaScript)
 
+## Desarrollo Web
+
+(5/01/2018):ok_hand:[Porque debes aprender desarrollo Web](http://wmedia.es/debes-aprender-desarrollo-web/?utm_content=buffer00221&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ## Java Script
 
 :page_facing_up: (2/1/2018)[JavaScript loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
@@ -48,6 +52,10 @@
 
 ## Css
 
+:page_facing_up: (24/12/2017) [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
+
+:page_facing_up: (6/01/2018):ok_hand:[CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
+
 :movie_camera: [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 
 :movie_camera: [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
@@ -58,7 +66,6 @@
 
 :page_facing_up: [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 
-:page_facing_up: [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 
 :movie_camera: [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 
@@ -146,8 +153,6 @@
 
 :page_facing_up: [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 
-:page_facing_up: 24/12/2017 [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
-
 :page_facing_up: [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 
 :page_facing_up: [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
@@ -200,6 +205,10 @@
 [Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
 
 :page_facing_up: [2017 Staff Favorites](https://css-tricks.com/2017-staff-favorites/)
+
+:page_facing_up: [Front-End Performance Checklist 2018 ](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+
+:page_facing_up: [MOST The HEARTED 2017 CodePen](https://codepen.io/2017/popular/pens/)
 
 
 ## Npm
