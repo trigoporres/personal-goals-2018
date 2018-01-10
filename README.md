@@ -221,6 +221,8 @@
 
 :ok_hand: [node-notifier](https://github.com/mikaelbr/node-notifier)
 
+[node js face recognition](https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852)
+
 
 
 
