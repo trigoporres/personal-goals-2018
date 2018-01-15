@@ -87,7 +87,7 @@
 
 ## means
 
-[Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
+- [ ] [Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
 
 :page_facing_up: [2017 Staff Favorites](https://css-tricks.com/2017-staff-favorites/)
 
