@@ -46,7 +46,7 @@
 
 :movie_camera: (realizando) [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
 
-:page_facing_up: [juguetitos de vue](https://madewithvuejs.com/testing)
+😍 :page_facing_up: [juguetitos de vue](https://madewithvuejs.com/testing)
 
 ## React
 
