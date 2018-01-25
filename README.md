@@ -87,13 +87,15 @@
 
 ## means
 
-- [ ] [Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
+[Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
 
 :page_facing_up: [2017 Staff Favorites](https://css-tricks.com/2017-staff-favorites/)
 
 :page_facing_up: [Front-End Performance Checklist 2018 ](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 
 :page_facing_up: [MOST The HEARTED 2017 CodePen](https://codepen.io/2017/popular/pens/)
+
+:page_facing_up: [Programming Notes for Professionals books](http://books.goalkicker.com/)
 
 
 ## Npm
