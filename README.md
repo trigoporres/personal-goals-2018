@@ -46,6 +46,8 @@
 
 :movie_camera: (realizando) [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
 
+:page_facing_up: [juguetitos de vue](https://madewithvuejs.com/testing)
+
 ## React
 
 :page_facing_up: [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
@@ -63,6 +65,8 @@
 :page_facing_up: (24/12/2017) [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
 
 :page_facing_up: (6/01/2018):ok_hand:[CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
+
+:page_facing_up: [recreando panel contibuciones github con css grid](https://bitsofco.de/github-contribution-graph-css-grid/)
 
 ## grid vs flexbox
 
