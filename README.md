@@ -99,7 +99,9 @@
 
 :page_facing_up: [MOST The HEARTED 2017 CodePen](https://codepen.io/2017/popular/pens/)
 
-:page_facing_up: [Programming Notes for Professionals books](http://books.goalkicker.com/)
+😍 :page_facing_up: [Programming Notes for Professionals books](http://books.goalkicker.com/)
+
+😍 :page_facing_up: [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## Npm
