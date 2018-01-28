@@ -8,8 +8,6 @@
 
 ## :books: Books
 
-:blue_book: [Desarrolla aplicaciones con VueJS, Jose Antonio Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)   [@jdonsan](https://twitter.com/jdonsan?lang=es)
-
 :blue_book: [Desarrollo web agil con angular, Carlos Azaustre](https://carlosazaustre.es/)    [@carlosazaustre](https://twitter.com/carlosazaustre?lang=es)
 
 :blue_book: [Angular from theory to practice, Asim Hussain](https://codecraft.tv/courses/angular/)
@@ -32,21 +30,7 @@
 
 :movie_camera: [Web Scraping, Escaneando la web con Nodejs](https://youtu.be/rcsvTUG0bs8)
 
-## Vue JS
-
-:movie_camera: (6/1/2018) [Aprendiendo Vue Js](https://www.youtube.com/watch?v=7ftXSVWOwcg&feature=youtu.be)  [@jdonsan](https://twitter.com/jdonsan?lang=es)
-
-:page_facing_up: (9/01/2018) [Vue Js: el sistema reactivo](https://elabismodenull.wordpress.com/2017/09/12/vuejs-el-sistema-reactivo/)
-
-:page_facing_up: (9/01/2018) [trabajando con templates](https://elabismodenull.wordpress.com/2017/04/25/vuejs-trabajando-con-templates/)
-
-:page_facing_up: (9/01/2018) [Vue diferentes formas de reutilizar codigo](https://elabismodenull.wordpress.com/2017/08/29/vuejs-diferentes-formas-de-reutilizar-codigo/)
-
-:movie_camera: (11/01/2018) [Meetup Vuex ¿Que es? ¿lo necesito?](https://www.youtube.com/watch?v=zC51h2jU0n4)
-
-:movie_camera: (realizando) [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
-
-😍 :page_facing_up: [juguetitos de vue](https://madewithvuejs.com/testing)
+## [Vue Js (toda la informacion en otro repositorio)](https://github.com/trigoporres/personal-aprendiendoVue)
 
 ## React
 
