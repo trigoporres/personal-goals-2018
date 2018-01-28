@@ -66,14 +66,16 @@
 
 :movie_camera: (2/1/2018) [What the Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
-## repositories Github
+## repositorios Github
 
 [Ejemplos de uso de GitHub Pages](https://github.com/cristinafsanz/github-pages)[@cristinafsanz](https://twitter.com/cristinafsanz?lang=es)
 
 [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
+:page_facing_up: [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
-## means
+
+## recursos
 
 [Flexbox toggle](https://codepen.io/shshaw/pen/EbjvbQ/)
 
@@ -85,19 +87,9 @@
 
 :page_facing_up: [Programming Notes for Professionals books](http://books.goalkicker.com/)
 
-:page_facing_up: [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-
-
 ## Npm
 
 :ok_hand: [node-notifier](https://github.com/mikaelbr/node-notifier)
 
 [node js face recognition](https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852)
 
-
-
-
-
-
-
-## [inspirado en repositorio de Ignacio Villanueva](https://github.com/IgnaciodeNuevo/personal-goals#podcasts)
