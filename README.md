@@ -20,6 +20,12 @@
 
 (5/01/2018):ok_hand:[Porque debes aprender desarrollo Web](http://wmedia.es/debes-aprender-desarrollo-web/?utm_content=buffer00221&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+🤩 (29/01/2018) :page_facing_up: [He diseñado la mejor aplicación del mundo](https://elabismodenull.wordpress.com/2017/03/02/he-disenado-la-mejor-aplicacion-del-mundo/)
+
+## Comunidad Code 
+
+(29/01/2018) :movie_camera: [Continuous Delivery: Germinando una cultura Agile moderna](https://www.youtube.com/watch?v=hbggtXmQcf8)
+
 ## Java Script
 
 :page_facing_up: (2/1/2018)[JavaScript loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
