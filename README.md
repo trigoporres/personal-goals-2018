@@ -40,6 +40,8 @@
 
 ## React
 
+:page_facing_up: [5 razones para aprender react](https://www.linkedin.com/pulse/reactjs-5-razones-por-las-que-deber%C3%ADas-aprenderlo-dur%C3%A1n-garc%C3%ADa/?trackingId=LigiqTHi92MO6ljDXMNp8g%3D%3D)
+
 :page_facing_up: [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️ 🎁](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 ## Phyton
