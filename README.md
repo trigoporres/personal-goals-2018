@@ -18,9 +18,11 @@
 
 ## Desarrollo Web
 
-(5/01/2018):ok_hand:[Porque debes aprender desarrollo Web](http://wmedia.es/debes-aprender-desarrollo-web/?utm_content=buffer00221&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+(03/02/2018) :page_facing_up: [¿Y si el software Open Source desapareciera?](https://www.xataka.com/servicios/y-si-el-software-open-source-desapareciera)
 
 🤩 (29/01/2018) :page_facing_up: [He diseñado la mejor aplicación del mundo](https://elabismodenull.wordpress.com/2017/03/02/he-disenado-la-mejor-aplicacion-del-mundo/)
+
+(5/01/2018):ok_hand:[Porque debes aprender desarrollo Web](http://wmedia.es/debes-aprender-desarrollo-web/?utm_content=buffer00221&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Comunidad Code 
 
@@ -69,6 +71,8 @@
 [learn css grid](http://learncssgrid.com/)
 
 :movie_camera: [Aprende CSS Grid práctico](https://www.youtube.com/playlist?list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
+
+:page_facing_up: [css grid garden](http://cssgridgarden.com/#es)
 
 ## Flexbox
 
