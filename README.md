@@ -28,6 +28,8 @@
 
 (29/01/2018) :movie_camera: [Continuous Delivery: Germinando una cultura Agile moderna](https://www.youtube.com/watch?v=hbggtXmQcf8)
 
+(15/02/2018) :movie_camera: [Ilusionismo con Github Pages](https://www.youtube.com/watch?v=VBKQIiTl8Bc)
+
 ## Java Script
 
 :page_facing_up: (2/1/2018)[JavaScript loops — how to handle async/await](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
