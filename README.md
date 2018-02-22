@@ -24,6 +24,14 @@
 
 (5/01/2018):ok_hand:[Porque debes aprender desarrollo Web](http://wmedia.es/debes-aprender-desarrollo-web/?utm_content=buffer00221&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+## Testing
+
+:page_facing_up:
+[Testing AngularJS with Jasmine and Karma (Part 1)](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1)
+
+:page_facing_up:
+[Testing Angular 2 and Continuous Integration with Jest](https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest)
+
 ## Comunidad Code 
 
 (29/01/2018) :movie_camera: [Continuous Delivery: Germinando una cultura Agile moderna](https://www.youtube.com/watch?v=hbggtXmQcf8)
